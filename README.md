@@ -11,5 +11,18 @@
 
 ### 📋 1. 데이터 전처리 및 가설 설정
 ### 📊 2. 데이터 분석 및 가설 검증
-### 3. 서비스 구현
-### (+ 카드 추천 알고리즘 구현)
+### ❄️ 3. 서비스 구현
+### ☀️ (+ 카드 추천 알고리즘 구현)
+
+
+### 🔗 출처
+|데이터|링크|
+|---|---|
+|결제내역|https://data.gg.go.kr/portal/data/service/selectServicePage.do?&infId=7Y02TF04H1WUB55Q4IZL35052374&infSeq=1|
+
+### 🧰 기술스택
+|Tools|Skills|
+|---|---|
+|**Language**|**Python**|
+|**Processing**|Pandas, Numpy|
+|**Visualization**|Matplotlib|
